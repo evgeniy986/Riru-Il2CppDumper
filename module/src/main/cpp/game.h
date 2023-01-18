@@ -5,7 +5,7 @@
 #ifndef RIRU_IL2CPPDUMPER_GAME_H
 #define RIRU_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagename"
+#define GamePackageName "com.herogame.gplay.lastdayrulessurvival"
 #define UnityVersion 2020.2.4f1
 
 // 2018.3.0f2 and up enable it
